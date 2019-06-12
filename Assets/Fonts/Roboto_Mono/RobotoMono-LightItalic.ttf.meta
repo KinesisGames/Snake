@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9983da2252b225c3cb6c1348e83ebd44
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Roboto Mono Light
+  fontNames:
+  - Roboto Mono Light
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2b215606f1e019692a120d93be7451a6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,10 @@
+Library/
+Logs/
+Master/
+Temp/
+Packages/
+*.sln
+*.csproj
+*.sln
+*.keystore
+*.apk
